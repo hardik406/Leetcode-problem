@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hardik406/Leetcode-problem/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/hardik406/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/hardik406/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hardik406/Leetcode-problem/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hardik406/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/hardik406/Leetcode-problem/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/hardik406/Leetcode-problem/tree/master/0125-valid-palindrome) |
 ## String
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hardik406/Leetcode-problem/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/hardik406/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/hardik406/Leetcode-problem/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/hardik406/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hardik406/Leetcode-problem/tree/master/0503-next-greater-element-ii) |
@@ -56,6 +59,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hardik406/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/hardik406/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hardik406/Leetcode-problem/tree/master/0503-next-greater-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/hardik406/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
