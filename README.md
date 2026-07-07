@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hardik406/Leetcode-problem/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/hardik406/Leetcode-problem/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/hardik406/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/hardik406/Leetcode-problem/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/hardik406/Leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/hardik406/Leetcode-problem/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/hardik406/Leetcode-problem/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/hardik406/Leetcode-problem/tree/master/0402-remove-k-digits) |
 ## Math
 |  |
