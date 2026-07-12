@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/hardik406/Leetcode-problem/tree/master/0735-asteroid-collision) |
 | [0930-binary-subarrays-with-sum](https://github.com/hardik406/Leetcode-problem/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/hardik406/Leetcode-problem/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/hardik406/Leetcode-problem/tree/master/1248-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/hardik406/Leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/hardik406/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/hardik406/Leetcode-problem/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/hardik406/Leetcode-problem/tree/master/1248-count-number-of-nice-subarrays) |
 ## Linked List
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/hardik406/Leetcode-problem/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/hardik406/Leetcode-problem/tree/master/0231-power-of-two) |
+| [1248-count-number-of-nice-subarrays](https://github.com/hardik406/Leetcode-problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/hardik406/Leetcode-problem/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
@@ -120,11 +123,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/hardik406/Leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/hardik406/Leetcode-problem/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/hardik406/Leetcode-problem/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/hardik406/Leetcode-problem/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/hardik406/Leetcode-problem/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/hardik406/Leetcode-problem/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/hardik406/Leetcode-problem/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sorting
 |  |
 | ------- |
