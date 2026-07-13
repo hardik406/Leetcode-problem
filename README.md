@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hardik406/Leetcode-problem/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/hardik406/Leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/hardik406/Leetcode-problem/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/hardik406/Leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hardik406/Leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/hardik406/Leetcode-problem/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/hardik406/Leetcode-problem/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/hardik406/Leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/hardik406/Leetcode-problem/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/hardik406/Leetcode-problem/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/hardik406/Leetcode-problem/tree/master/0402-remove-k-digits) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/hardik406/Leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/hardik406/Leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/hardik406/Leetcode-problem/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hardik406/Leetcode-problem/tree/master/0992-subarrays-with-k-different-integers) |
