@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/hardik406/Leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/hardik406/Leetcode-problem/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hardik406/Leetcode-problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardik406/Leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/hardik406/Leetcode-problem/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/hardik406/Leetcode-problem/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/hardik406/Leetcode-problem/tree/master/0735-asteroid-collision) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardik406/Leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
