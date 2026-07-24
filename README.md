@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/hardik406/Leetcode-problem/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/hardik406/Leetcode-problem/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/hardik406/Leetcode-problem/tree/master/0135-candy) |
+| [0268-missing-number](https://github.com/hardik406/Leetcode-problem/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hardik406/Leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/hardik406/Leetcode-problem/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/hardik406/Leetcode-problem/tree/master/0496-next-greater-element-i) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hardik406/Leetcode-problem/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/hardik406/Leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/hardik406/Leetcode-problem/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/hardik406/Leetcode-problem/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/hardik406/Leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hardik406/Leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/hardik406/Leetcode-problem/tree/master/0496-next-greater-element-i) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/hardik406/Leetcode-problem/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/hardik406/Leetcode-problem/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/hardik406/Leetcode-problem/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/hardik406/Leetcode-problem/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hardik406/Leetcode-problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hardik406/Leetcode-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hardik406/Leetcode-problem/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/hardik406/Leetcode-problem/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/hardik406/Leetcode-problem/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/hardik406/Leetcode-problem/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/hardik406/Leetcode-problem/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/hardik406/Leetcode-problem/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/hardik406/Leetcode-problem/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/hardik406/Leetcode-problem/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -235,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/hardik406/Leetcode-problem/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hardik406/Leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/hardik406/Leetcode-problem/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hardik406/Leetcode-problem/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
