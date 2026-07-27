@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/hardik406/Leetcode-problem/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/hardik406/Leetcode-problem/tree/master/0135-candy) |
 | [0268-missing-number](https://github.com/hardik406/Leetcode-problem/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/hardik406/Leetcode-problem/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hardik406/Leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/hardik406/Leetcode-problem/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/hardik406/Leetcode-problem/tree/master/0496-next-greater-element-i) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/hardik406/Leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/hardik406/Leetcode-problem/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/hardik406/Leetcode-problem/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/hardik406/Leetcode-problem/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/hardik406/Leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hardik406/Leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/hardik406/Leetcode-problem/tree/master/0496-next-greater-element-i) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hardik406/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/hardik406/Leetcode-problem/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/hardik406/Leetcode-problem/tree/master/0125-valid-palindrome) |
+| [0349-intersection-of-two-arrays](https://github.com/hardik406/Leetcode-problem/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/hardik406/Leetcode-problem/tree/master/0455-assign-cookies) |
 ## String
 |  |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/hardik406/Leetcode-problem/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/hardik406/Leetcode-problem/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/hardik406/Leetcode-problem/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/hardik406/Leetcode-problem/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/hardik406/Leetcode-problem/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/hardik406/Leetcode-problem/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hardik406/Leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/hardik406/Leetcode-problem/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardik406/Leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
