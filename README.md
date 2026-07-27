@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/hardik406/Leetcode-problem/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/hardik406/Leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hardik406/Leetcode-problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardik406/Leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hardik406/Leetcode-problem/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/hardik406/Leetcode-problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hardik406/Leetcode-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/hardik406/Leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hardik406/Leetcode-problem/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/hardik406/Leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardik406/Leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hardik406/Leetcode-problem/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3536-maximum-product-of-two-digits](https://github.com/hardik406/Leetcode-problem/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/hardik406/Leetcode-problem/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hardik406/Leetcode-problem/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hardik406/Leetcode-problem/tree/master/0701-insert-into-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardik406/Leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
