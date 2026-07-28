@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hardik406/Leetcode-problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hardik406/Leetcode-problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardik406/Leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/hardik406/Leetcode-problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/hardik406/Leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardik406/Leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hardik406/Leetcode-problem/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/hardik406/Leetcode-problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/hardik406/Leetcode-problem/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardik406/Leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/hardik406/Leetcode-problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
