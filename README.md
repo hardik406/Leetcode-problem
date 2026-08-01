@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/hardik406/Leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hardik406/Leetcode-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hardik406/Leetcode-problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/hardik406/Leetcode-problem/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hardik406/Leetcode-problem/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/hardik406/Leetcode-problem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hardik406/Leetcode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/hardik406/Leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/hardik406/Leetcode-problem/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hardik406/Leetcode-problem/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -311,4 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hardik406/Leetcode-problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/hardik406/Leetcode-problem/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/hardik406/Leetcode-problem/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
