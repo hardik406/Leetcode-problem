@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/hardik406/Leetcode-problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hardik406/Leetcode-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/hardik406/Leetcode-problem/tree/master/2073-time-needed-to-buy-tickets) |
+| [3731-find-missing-elements](https://github.com/hardik406/Leetcode-problem/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/hardik406/Leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hardik406/Leetcode-problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardik406/Leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/hardik406/Leetcode-problem/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardik406/Leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hardik406/Leetcode-problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/hardik406/Leetcode-problem/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/hardik406/Leetcode-problem/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
