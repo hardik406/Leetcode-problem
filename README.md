@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/hardik406/Leetcode-problem/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/hardik406/Leetcode-problem/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/hardik406/Leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/hardik406/Leetcode-problem/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/hardik406/Leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/hardik406/Leetcode-problem/tree/master/0125-valid-palindrome) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hardik406/Leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hardik406/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hardik406/Leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hardik406/Leetcode-problem/tree/master/0055-jump-game) |
@@ -334,4 +336,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/hardik406/Leetcode-problem/tree/master/0547-number-of-provinces) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/hardik406/Leetcode-problem/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/hardik406/Leetcode-problem/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
