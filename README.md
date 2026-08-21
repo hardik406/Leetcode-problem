@@ -372,5 +372,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hardik406/Leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hardik406/Leetcode-problem/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
