@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hardik406/Leetcode-problem/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hardik406/Leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hardik406/Leetcode-problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/hardik406/Leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/hardik406/Leetcode-problem/tree/master/0205-isomorphic-strings) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hardik406/Leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/hardik406/Leetcode-problem/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hardik406/Leetcode-problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/hardik406/Leetcode-problem/tree/master/0020-valid-parentheses) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hardik406/Leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/hardik406/Leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/hardik406/Leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/hardik406/Leetcode-problem/tree/master/0930-binary-subarrays-with-sum) |
