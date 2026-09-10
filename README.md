@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/hardik406/Leetcode-problem/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/hardik406/Leetcode-problem/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/hardik406/Leetcode-problem/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/hardik406/Leetcode-problem/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/hardik406/Leetcode-problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hardik406/Leetcode-problem/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardik406/Leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hardik406/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hardik406/Leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hardik406/Leetcode-problem/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/hardik406/Leetcode-problem/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/hardik406/Leetcode-problem/tree/master/0678-valid-parenthesis-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hardik406/Leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
@@ -387,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/hardik406/Leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hardik406/Leetcode-problem/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hardik406/Leetcode-problem/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
