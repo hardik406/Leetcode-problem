@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/hardik406/Leetcode-problem/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hardik406/Leetcode-problem/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/hardik406/Leetcode-problem/tree/master/0135-candy) |
+| [0198-house-robber](https://github.com/hardik406/Leetcode-problem/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/hardik406/Leetcode-problem/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/hardik406/Leetcode-problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hardik406/Leetcode-problem/tree/master/0349-intersection-of-two-arrays) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/hardik406/Leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hardik406/Leetcode-problem/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/hardik406/Leetcode-problem/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/hardik406/Leetcode-problem/tree/master/0198-house-robber) |
 | [0678-valid-parenthesis-string](https://github.com/hardik406/Leetcode-problem/tree/master/0678-valid-parenthesis-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hardik406/Leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
