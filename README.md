@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/hardik406/Leetcode-problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hardik406/Leetcode-problem/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardik406/Leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/hardik406/Leetcode-problem/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hardik406/Leetcode-problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hardik406/Leetcode-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hardik406/Leetcode-problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -404,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/hardik406/Leetcode-problem/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/hardik406/Leetcode-problem/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
