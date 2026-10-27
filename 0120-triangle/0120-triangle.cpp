@@ -1,37 +1,17 @@
-
 class Solution {
 public:
-    int valTotal(vector<vector<int>>& triangle, int i, int j,
-                 vector<vector<int>>& dp,
-                 vector<vector<bool>>& visited) {
-        int n = triangle.size();
-
-        if (i == n - 1)
-            return triangle[i][j];
-
-        if (visited[i][j])
-            return dp[i][j];
-
-        int down = valTotal(triangle, i + 1, j, dp, visited);
-        int Rdown = valTotal(triangle, i + 1, j + 1, dp, visited);
-
-        visited[i][j] = true;
-
-        return dp[i][j] =
-            triangle[i][j] + min(down, Rdown);
-    }
-
     int minimumTotal(vector<vector<int>>& triangle) {
         int n = triangle.size();
-
-        vector<vector<int>> dp(n);
-        vector<vector<bool>> visited(n);
-
-        for (int i = 0; i < n; i++) {
-            dp[i] = vector<int>(i + 1, 0);
-            visited[i] = vector<bool>(i + 1, false);
+        vector<int> front(n,0) ,curr(n,0);
+        for(int j=0;j<n;j++) front[j] = triangle[n-1][j];
+        for(int i=n-2;i>=0;i--){
+            for(int j =i;j>=0;j--){
+                int d = triangle[i][j]+front[j];
+                int dg = triangle[i][j]+front[j+1];
+                curr[j] = min(d,dg);
+            }
+            front =curr;
         }
-
-        return valTotal(triangle, 0, 0, dp, visited);
+        return front[0];
     }
 };
