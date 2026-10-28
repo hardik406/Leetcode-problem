@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/hardik406/Leetcode-problem/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hardik406/Leetcode-problem/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hardik406/Leetcode-problem/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/hardik406/Leetcode-problem/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/hardik406/Leetcode-problem/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/hardik406/Leetcode-problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hardik406/Leetcode-problem/tree/master/0268-missing-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hardik406/Leetcode-problem/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/hardik406/Leetcode-problem/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/hardik406/Leetcode-problem/tree/master/0678-valid-parenthesis-string) |
 | [0931-minimum-falling-path-sum](https://github.com/hardik406/Leetcode-problem/tree/master/0931-minimum-falling-path-sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hardik406/Leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/hardik406/Leetcode-problem/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/hardik406/Leetcode-problem/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/hardik406/Leetcode-problem/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/hardik406/Leetcode-problem/tree/master/1260-shift-2d-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/hardik406/Leetcode-problem/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Queue
 |  |
 | ------- |
