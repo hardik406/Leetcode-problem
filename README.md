@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/hardik406/Leetcode-problem/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/hardik406/Leetcode-problem/tree/master/3483-unique-3-digit-even-numbers) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hardik406/Leetcode-problem/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/hardik406/Leetcode-problem/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hardik406/Leetcode-problem/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/hardik406/Leetcode-problem/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hardik406/Leetcode-problem/tree/master/3875-construct-uniform-parity-array-i) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/hardik406/Leetcode-problem/tree/master/0678-valid-parenthesis-string) |
 | [0931-minimum-falling-path-sum](https://github.com/hardik406/Leetcode-problem/tree/master/0931-minimum-falling-path-sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hardik406/Leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3665-twisted-mirror-path-count](https://github.com/hardik406/Leetcode-problem/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/hardik406/Leetcode-problem/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/hardik406/Leetcode-problem/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/hardik406/Leetcode-problem/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/hardik406/Leetcode-problem/tree/master/1260-shift-2d-grid) |
+| [3665-twisted-mirror-path-count](https://github.com/hardik406/Leetcode-problem/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/hardik406/Leetcode-problem/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Queue
 |  |
