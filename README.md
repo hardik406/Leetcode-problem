@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/hardik406/Leetcode-problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hardik406/Leetcode-problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/hardik406/Leetcode-problem/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/hardik406/Leetcode-problem/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/hardik406/Leetcode-problem/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/hardik406/Leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hardik406/Leetcode-problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/hardik406/Leetcode-problem/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/hardik406/Leetcode-problem/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hardik406/Leetcode-problem/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/hardik406/Leetcode-problem/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/hardik406/Leetcode-problem/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/hardik406/Leetcode-problem/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hardik406/Leetcode-problem/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/hardik406/Leetcode-problem/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/hardik406/Leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hardik406/Leetcode-problem/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/hardik406/Leetcode-problem/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardik406/Leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Number Theory
 |  |
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/hardik406/Leetcode-problem/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/hardik406/Leetcode-problem/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/hardik406/Leetcode-problem/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/hardik406/Leetcode-problem/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/hardik406/Leetcode-problem/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/hardik406/Leetcode-problem/tree/master/1463-cherry-pickup-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/hardik406/Leetcode-problem/tree/master/3665-twisted-mirror-path-count) |
@@ -433,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/hardik406/Leetcode-problem/tree/master/0547-number-of-provinces) |
+| [1267-count-servers-that-communicate](https://github.com/hardik406/Leetcode-problem/tree/master/1267-count-servers-that-communicate) |
 ## Graph Theory
 |  |
 | ------- |
