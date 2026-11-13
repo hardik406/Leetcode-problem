@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/hardik406/Leetcode-problem/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/hardik406/Leetcode-problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hardik406/Leetcode-problem/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/hardik406/Leetcode-problem/tree/master/0338-counting-bits) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hardik406/Leetcode-problem/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/hardik406/Leetcode-problem/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/hardik406/Leetcode-problem/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/hardik406/Leetcode-problem/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/hardik406/Leetcode-problem/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/hardik406/Leetcode-problem/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/hardik406/Leetcode-problem/tree/master/0678-valid-parenthesis-string) |
 | [0931-minimum-falling-path-sum](https://github.com/hardik406/Leetcode-problem/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/hardik406/Leetcode-problem/tree/master/1277-count-square-submatrices-with-all-ones) |
